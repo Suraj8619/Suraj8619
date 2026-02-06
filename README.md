@@ -69,7 +69,7 @@
 
 ## 🏆 Competitive Programming  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Suraj8619?theme=dark&font=Fira%20Code)
+![LeetCode Stats](https://github.com/Suraj8619/Mini-Projects/blob/aa0044dccf786a23ba7bd2ca620f06fc3b5c7764/Screenshot%202026-02-06%20220631.png)
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-2⭐-brown?style=for-the-badge&logo=codechef)
 
