@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me  
 🎓 **B.Tech – Electronics & Communication** @ IIIT Bhagalpur  
 💡 Passionate about **scalable web apps, backend systems & cloud tech**  
-🧠 Strong in **DSA, OS, CN, DBMS**  
+🧠 Strong in **DSA, OS, CN, DBMS, ML**  
 🏆 **2⭐ CodeChef | 300+ problems solved**  
 🤝 Open to **internships, open-source & collaborations**
 
